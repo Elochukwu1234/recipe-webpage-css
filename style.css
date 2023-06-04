@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+.recipe {
+  background-color: rgb(254, 253, 249);
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333333;
+}
+
+h2 {
+  color: rgb(222, 128, 40);
+}
+
+#ingredients,
+.instructions {
+  margin-top: 10px;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+.recipe li {
+  color: #666666;
+}
